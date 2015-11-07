@@ -1,5 +1,5 @@
 // This is our plugin struct.
-type collectdOutput struct {
+package collectdOutput struct {
     conn net.Conn
 }
 
